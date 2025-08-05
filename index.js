@@ -1,1 +1,2 @@
-console.log("HOLA")
+console.log("HOLA");
+console.log("Cambio 2");
